@@ -2,7 +2,7 @@
 # This feed is encoded in RFC 8805 format
 #
 # This data feed provides approximate geolocations for a subset of
-# Interpublic IP space, and the data included in this feed may be used only
+# Interpublic IP space and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups 
 #
 # This data is public information and should be treated as such
